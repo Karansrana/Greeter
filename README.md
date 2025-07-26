@@ -24,7 +24,7 @@ Football
 
 So your name is John Doe, you are 20 years old and you like playing football.
 
-### variable.title is used to keep the name gramatically correct while variable.lower is used to keep the sport gramatically correct in the sentence in the event the user does not capatalize properly.
+### Note - variable.title is used to keep the name gramatically correct while variable.lower is used to keep the sport gramatically correct in the sentence in the event the user does not capatalize properly.
 
 ## Why this project?
 
